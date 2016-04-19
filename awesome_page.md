@@ -1,4 +1,5 @@
 ## This is THE MASTER
+
 *This is italicized text*
 
 **THIS IS BOLD TEXT**
