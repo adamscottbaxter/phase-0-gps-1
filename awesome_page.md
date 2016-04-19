@@ -1,4 +1,4 @@
-## This is the 2nd largest heading!
+## This is SMALL CONFLICT
 *This is italicized text*
 
 **THIS IS BOLD TEXT**
